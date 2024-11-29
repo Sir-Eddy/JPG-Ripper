@@ -9,4 +9,4 @@ A simple Python script to download JPGs from a list of URLs.
 3. Add URLs to `links.txt` (one per line).
 4. Run:
    ```bash
-   python jpg_downloader.py
+   python jpg_ripper.py
